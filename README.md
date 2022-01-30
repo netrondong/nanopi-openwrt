@@ -44,8 +44,5 @@ wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoup
 ### 更新说明：
 https://github.com/klever1988/nanopi-openwrt/blob/master/CHANGELOG.md
 
-#### 本固件NAT基准性能测试：
-<img src="https://raw.githubusercontent.com/klever1988/nanopi-openwrt/master/assets/NAT.jpg" width="450" />
-
 #### 固件源码：
 https://github.com/immortalwrt/immortalwrt
